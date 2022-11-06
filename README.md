@@ -9,7 +9,7 @@
 
 ---
 
-👉 Learn how to [deploy this product LIVE on Render](https://youtu.be/3yWGhJiOWRc) using the [Python Deployer](https://github.com/app-generator/deploy-automation-render)  
+👉 Learn how to [deploy this product LIVE on Render](https://youtu.be/3yWGhJiOWRc) using the [Python Deployer](https://github.com/app-generator/deploy-automation-render) (free tool)
 
 ---
 
