@@ -7,6 +7,10 @@
 
 <br />
 
+> Learn how to [deploy this product LIVE on Render](https://youtu.be/3yWGhJiOWRc) using the [Python Deployer](https://github.com/app-generator/deploy-automation-render)  
+
+<br />
+
 > 🚀 Built with **[React App Generator](https://appseed.us/generator/react/)**
 
 - ✅ Modern aesthetics UI design - Designed by [CodedThemes](https://bit.ly/37fF9RT)
